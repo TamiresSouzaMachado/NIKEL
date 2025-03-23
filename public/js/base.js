@@ -1,3 +1,4 @@
+// BASE PARA O JAVASCRIPT
 const nome = "Marcelo Eltz";
 let nome2 = "";
 let pessoaDefault= {
